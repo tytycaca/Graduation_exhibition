@@ -1,6 +1,10 @@
 **About World Maker**
 
+<br/>
+
 **YouTube Link :** https://youtu.be/nAqHVnQAzRY
+
+<br/>
 
 **타이틀 : World Maker**\
 \>\> 자신만의 자유로운 세계를 만들자는 뜻에서 'World Maker' 라고 명명함.
@@ -22,6 +26,8 @@
 \>\> 남녀노소 누구나 자신의 창의적인 세상을 만들 수 있도록 타겟
 플레이어를 전 연령층으로 설정함.
 
+<br/>
+
 **Concept -- 컨셉**
 
 -   **외계 행성을 테라포밍 하자!**
@@ -39,6 +45,8 @@
 
 **Reference Game -- 레퍼런스 게임**
 
+<br/>
+
 **Minecraft**
 
 <img src="/Screenshots/minecraft.jpg">
@@ -48,6 +56,8 @@
 마인크래프트에서 블록을 부수고 아이템을 모아서 여러 건물이나 장치를
 만드는 것 처럼 World Maker 에서도 자원을 획득하고 건물을 짓는 것이
 가능함.
+
+<br/>
 
 <img src="/Screenshots/starcraftbuild.jpg">
 
@@ -59,6 +69,8 @@
 쉽게 게임을 접게 되는데 이를 어느정도 방지하기 위하여 전략적인 요소를
 가미한 것임.
 
+<br/>
+
 **Satisfactory**
 
 <img src="/Screenshots/satisfactory.jpg">
@@ -69,11 +81,14 @@
 World Maker 에서 새로운 개척지를 찾아 미지의 행성으로 떠나고 생존에
 적합한 행성을 찾아서 테라포밍 한다는 컨셉을 이 게임에서 가져왔음.
 
+<br/>
+
 <img src="/Screenshots/box.jpg">
 
 \>\> World Maker 에서 지을 수 있는 건물들 중 하나인 Sci-Fi Crate 인데 이런 종류의 컨셉을 가진 건물들은
 Satisfactory 에서 착안함.
 
+<br/>
 
 **Game Overview -- 게임 개요**
 
@@ -100,14 +115,15 @@ Satisfactory 에서 착안함.
 
 \>\> 건설 가능한 건물들 (Sci-Fi crate, 그늘막)
 
+<br/>
+
 **Controls -- 조작법**
 
 <img src="/Screenshots/movekey.png"><img src="/Screenshots/mouse.png">
 \
 <img src="/Screenshots/ikey.png"><img src="/Screenshots/ekey.png">
 
-**\
-**
+<br/>
 
 **Resources -- 리소스**
 
@@ -117,12 +133,16 @@ Satisfactory 에서 착안함.
 
 \>\> 마인크래프트 주인공 모델을 가져오고 텍스처는 Blender 로 직접 매핑.
 
+<br/>
+
 **Colorful World Package -- 정적 오브젝트**
 
 <img src="/Screenshots/worldpack.jpg">
 
 \>\> Unity asset store 에서 판매중인 Low-poly 모델 패키지.\
 \>\> 필요한 모델들을 .obj 포맷으로 변환하여 사용.
+
+<br/>
 
 **Implementation -- 구현 내용**
 
@@ -315,6 +335,8 @@ World 상의 x, y, z 좌표와 일치함.
 건물을 부수거나 부술 수 있는 오브젝트에 상호작용 할 때도 해당 오브젝트의
 바운딩 박스에서 충돌을 감지하면 상호작용이 가능하도록 설계하였음. (Unity
 의 Collider 와 유사함)
+
+<br/>
 
 **Result -- 구현 내용에 대한 항목별 결과 화면**
 
