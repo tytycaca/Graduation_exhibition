@@ -32,9 +32,8 @@
 \>\> 자유롭게 건물을 배치하여 창의적인 나만의 행성을 만드는 오픈 월드
 게임.
 
-> \>\> 나무와 풀, 바위 등등 여러 오브젝트를 파괴하고 자원을 채취하여
-> 건물을\
-> 건설해보자!
+\>\> 나무와 풀, 바위 등등 여러 오브젝트를 파괴하고 자원을 채취하여
+건물을 건설해보자!
 
 **Reference Game -- 레퍼런스 게임**
 
@@ -88,8 +87,7 @@ Satisfactory 에서 착안함.
 -   필드 위에 생성되는 각종 채집 가능한 오브젝트들을 부수는 것으로도
     자원 획득 가능.
 
--   기본적인 조작법 (자원 채취, 건물 배치) 을 알려주는 튜토리얼까지 구현
-    예정.
+-   기본적인 조작법 (자원 채취, 건물 배치) 을 알려주는 튜토리얼까지 구현.
 
 <img src="/Screenshots/jewerl1.png"><img src="/Screenshots/jewerl2.png"><img src="/Screenshots/jewerl3.png"><img src="/Screenshots/jewerl4.png"><img src="/Screenshots/jewerl5.png">
 
@@ -102,11 +100,9 @@ Satisfactory 에서 착안함.
 
 **Controls -- 조작법**
 
-![](media/image15.png){width="2.033333333333333in"
-height="2.033333333333333in"}![](media/image16.png){width="1.9090277777777778in"
-height="1.9090277777777778in"}![](media/image17.png){width="1.6097222222222223in"
-height="1.6381944444444445in"}![](media/image18.png){width="1.5840277777777778in"
-height="1.6131944444444444in"}
+<img src="/Screenshots/movekey.png"><img src="/Screenshots/mouse.png">
+\
+<img src="/Screenshots/ikey.png"><img src="/Screenshots/ekey.png">
 
 **\
 **
@@ -115,14 +111,13 @@ height="1.6131944444444444in"}
 
 **katsbits minecraft terance -- 캐릭터 애니메이션 모델**
 
-![](media/image19.PNG){width="5.416124234470691in"
-height="2.9270833333333335in"}
+<img src="/Screenshots/character.png">
 
 \>\> 마인크래프트 주인공 모델을 가져오고 텍스처는 Blender 로 직접 매핑.
 
 **Colorful World Package -- 정적 오브젝트**
 
-![](media/image20.jpeg){width="5.96875in" height="3.7043985126859145in"}
+<img src="/Screenshots/worldpack.jpg">
 
 \>\> Unity asset store 에서 판매중인 Low-poly 모델 패키지.\
 \>\> 필요한 모델들을 .obj 포맷으로 변환하여 사용.
@@ -326,53 +321,40 @@ World 상의 x, y, z 좌표와 일치함.
 
 -   Multi scene control (Title, Controls, Main1, Main2, Ending)
 
-![](media/image21.png){width="3.066666666666667in"
-height="1.7218153980752406in"}![](media/image22.png){width="3.09375in"
-height="1.7370231846019248in"}![](media/image23.png){width="3.06120406824147in"
-height="1.71875in"} ![](media/image24.png){width="3.1075174978127733in"
-height="1.75in"}
+<img src="/Screenshots/multisceneresult1.png"><img src="/Screenshots/multisceneresult2.png"><img src="/Screenshots/multisceneresult3.png"><img src="/Screenshots/multisceneresult4.png">
 
 -   Cube map 을 통한 Skybox 구현. (Background image)
 
-![](media/image25.png){width="3.3936515748031497in" height="1.90625in"}
-![](media/image26.png){width="2.6979166666666665in"
-height="2.7137871828521436in"}
+<img src="/Screenshots/skybox1.png"><img src="/Screenshots/skybox2.png">
 
 -   Multi lighting 구현.
 
 \>\> 모닥불 주위로 동심원을 그리면서 밝아진 부분이 Spot Light, 나머지
 부분들은 Directional Light
 
-![](media/image27.png){width="6.176178915135608in" height="3.78125in"}
+<img src="/Screenshots/multilighting.png">
 
 -   Visual Effects 구현.
 
 \>\> 왼쪽부터 핑크 포탈, 모닥불, 블루 포탈
 
-![](media/image28.png){width="6.268055555555556in"
-height="3.5166666666666666in"}
+<img src="/Screenshots/visualeffects.png">
 
 -   런타임 오브젝트 생성 / 제거 구현.
-
-![](media/image29.png){width="4.450190288713911in"
-height="3.4583333333333335in"}
+<img src="/Screenshots/runtimeobject.png">
 
 -   캐릭터 애니메이션 구현.
 
-![](media/image30.png){width="2.4791666666666665in"
-height="2.09375in"}![](media/image31.png){width="1.96875in"
-height="2.5208333333333335in"}
-![](media/image32.png){width="2.0833333333333335in" height="2.59375in"}
-![](media/image33.png){width="1.78125in" height="2.4479166666666665in"}
+<img src="/Screenshots/charanim1.png"><img src="/Screenshots/charanim2.png">
+\
+<img src="/Screenshots/charanim3.png"><img src="/Screenshots/charanim4.png">
 
 -   UI System 구현 (Inventory, Interactive UI)
 
-![](media/image34.png){width="2.4895833333333335in"
-height="2.4895833333333335in"} ![](media/image35.png){width="1.84375in"
-height="2.375in"}
-
-![](media/image36.png){width="6.260416666666667in" height="0.75in"}
+<img src="/Screenshots/ui1.png"><img src="/Screenshots/ui2.png">
+\
+<img src="/Screenshots/ui3.png">
 
 -   3인칭 카메라 워크 구현.
 
-![](media/image37.png){width="6.268055555555556in" height="3.51875in"}
+<img src="/Screenshots/camerawalk.png">
