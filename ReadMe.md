@@ -1,6 +1,4 @@
-**※ 실행 시 Source 의 프로젝트 파일을 Visual Studio 로 로드하여 '빌드하지 않고 실행' 으로 실행해주시기 바랍니다. ※**
-
-<br/>
+**※ 실행 시 Source 폴더의 GraduationProject v3.0.sln 프로젝트 파일을 Visual Studio 로 로드하여 '디버그하지 않고 시작' 으로 실행해주시기 바랍니다. ※**
 
 <br/>
 
