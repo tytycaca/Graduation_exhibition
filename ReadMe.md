@@ -139,9 +139,6 @@ height="2.9270833333333335in"}
 \>\> Unity asset store 에서 판매중인 Low-poly 모델 패키지.\
 \>\> 필요한 모델들을 .obj 포맷으로 변환하여 사용.
 
-**Diagram -- 게임의 전체적인 흐름**
-
-**\
 Implementation -- 구현 내용**
 
 -   Multi scene control (Title, Controls, Main1, Main2, Ending)
