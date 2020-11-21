@@ -3,7 +3,7 @@
 타이틀 : World Maker\
 \>\> 자신만의 자유로운 세계를 만들자는 뜻에서 'World Maker' 라고 명명함.
 
-![](media/image1.png){width="6.268055555555556in"
+![](Screenshots/title.png){width="6.268055555555556in"
 height="3.5192738407699036in"}
 
 플랫폼 : PC\
