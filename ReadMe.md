@@ -3,8 +3,7 @@
 타이틀 : World Maker\
 \>\> 자신만의 자유로운 세계를 만들자는 뜻에서 'World Maker' 라고 명명함.
 
-![](Screenshots/title.png){width="6.268055555555556in"
-height="3.5192738407699036in"}
+![](Screenshots/title.png)
 
 플랫폼 : PC\
 \>\> 보다 많은 유저가 플레이할 수 있게 가장 보편화된 플랫폼인 PC를 선택.
@@ -25,10 +24,8 @@ height="3.5192738407699036in"}
 
 -   **외계 행성을 테라포밍 하자!**
 
-![satisfactory에 대한 이미지
-검색결과](media/image2.png){width="4.994377734033246in"
-height="2.0913954505686787in"}![satisfactory에 대한 이미지
-검색결과](media/image3.jpeg){width="6.204265091863517in"
+![Terraforming1](Screenshots/Terraforming1.png){width="4.994377734033246in"
+height="2.0913954505686787in"}![Terraforming1](Screenshots/Terraforming2.png){width="6.204265091863517in"
 height="3.489899387576553in"}
 
 \>\> 외계 행성 이주 프로젝트의 선발대가 되어 행성을 탐험해보자!
