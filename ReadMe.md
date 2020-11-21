@@ -39,7 +39,7 @@
 
 **Reference Game -- 레퍼런스 게임**
 
-Minecraft
+**Minecraft**
 
 <img src="/Screenshots/minecraft.jpg">
 
@@ -59,7 +59,7 @@ Minecraft
 쉽게 게임을 접게 되는데 이를 어느정도 방지하기 위하여 전략적인 요소를
 가미한 것임.
 
-Satisfactory
+**Satisfactory**
 
 <img src="/Screenshots/satisfactory.jpg">
 
@@ -124,7 +124,7 @@ Satisfactory 에서 착안함.
 \>\> Unity asset store 에서 판매중인 Low-poly 모델 패키지.\
 \>\> 필요한 모델들을 .obj 포맷으로 변환하여 사용.
 
-Implementation -- 구현 내용**
+**Implementation -- 구현 내용**
 
 -   Multi scene control (Title, Controls, Main1, Main2, Ending)
 
