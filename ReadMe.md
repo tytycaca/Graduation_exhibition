@@ -3,7 +3,7 @@
 타이틀 : World Maker\
 \>\> 자신만의 자유로운 세계를 만들자는 뜻에서 'World Maker' 라고 명명함.
 
-<img src="/Screenshots/title.png" width="8.94cm" height="15.92cm">
+<img src="/Screenshots/title.png">
 
 플랫폼 : PC\
 \>\> 보다 많은 유저가 플레이할 수 있게 가장 보편화된 플랫폼인 PC를 선택.
@@ -24,10 +24,8 @@
 
 -   **외계 행성을 테라포밍 하자!**
 
-![Terraforming1](Screenshots/Terraforming1.png){width="4.994377734033246in"
-height="2.0913954505686787in"}
-![Terraforming1](Screenshots/Terraforming2.png){width="6.204265091863517in"
-height="3.489899387576553in"}
+<img src="/Screenshots/Terraforming1.png">
+<img src="/Screenshots/Terraforming2.jpg">
 
 \>\> 외계 행성 이주 프로젝트의 선발대가 되어 행성을 탐험해보자!
 
@@ -42,8 +40,7 @@ height="3.489899387576553in"}
 
 Minecraft
 
-![](media/image4.jpg){width="6.268055555555556in"
-height="3.522222222222222in"}
+<img src="/Screenshots/minecraft.jpg">
 
 \>\> 기본적인 컨셉은 마인크래프트에서 가져왔으며, 게임의 궁극적인 목표가
 명확히 정해져있지 않고 유저의 상상력에 기반한 플레이 방식을 참고하였음.\
@@ -51,9 +48,7 @@ height="3.522222222222222in"}
 만드는 것 처럼 World Maker 에서도 자원을 획득하고 건물을 짓는 것이
 가능함.
 
-![Archdaily.com\] 스타크래프트부터 에이지 오브 엠파이어 까지: 건축은
-\...](media/image5.jpeg){width="5.811805555555556in"
-height="3.265949256342957in"}
+<img src="/Screenshots/starcraftbuild.jpg">
 
 \>\> 다만 마인크래프트와 달리 스타크래프트와 같은 RTS 장르의 게임에서
 주로 채용하는 시스템인 '테크 트리 시스템'을 채용하여 단순 아이템만
@@ -65,8 +60,7 @@ height="3.265949256342957in"}
 
 Satisfactory
 
-![](media/image6.jpg){width="5.541666666666667in"
-height="3.117110673665792in"}
+<img src="/Screenshots/satisfactory.jpg">
 
 \>\> 게임의 배경이 되는 컨셉은 Satisfactory 라는 게임에서 가져왔음.\
 외계 행성이 배경이 되는 게임으로 행성의 이주민이 되어서 첫 개척자로서
@@ -74,10 +68,11 @@ height="3.117110673665792in"}
 World Maker 에서 새로운 개척지를 찾아 미지의 행성으로 떠나고 생존에
 적합한 행성을 찾아서 테라포밍 한다는 컨셉을 이 게임에서 가져왔음.
 
-![](media/image7.jpeg){width="2.1770833333333335in"
-height="2.1770833333333335in"}\>\> World Maker 에서 지을 수 있는 건물들
+<img src="/Screenshots/box.jpg">
+\>\> World Maker 에서 지을 수 있는 건물들
 중 하나인 Sci-Fi Crate 인데 이런 종류의 컨셉을 가진 건물들은
 Satisfactory 에서 착안함.
+
 
 **Game Overview -- 게임 개요**
 
@@ -96,17 +91,12 @@ Satisfactory 에서 착안함.
 -   기본적인 조작법 (자원 채취, 건물 배치) 을 알려주는 튜토리얼까지 구현
     예정.
 
-![](media/image7.jpeg){width="1.5in"
-height="1.5in"}![](media/image8.png){width="1.5in"
-height="1.5in"}![](media/image9.png){width="1.5in"
-height="1.5in"}![](media/image10.png){width="1.5in"
-height="1.5in"}![](media/image11.png){width="1.5in"
-height="1.5in"}![](media/image12.png){width="1.5in"
-height="1.5in"}![](media/image13.png){width="1.5in"
-height="1.5in"}![](media/image14.png){width="1.5in" height="1.5in"}
+<img src="/Screenshots/jewerl1.png"><img src="/Screenshots/jewerl2.png"><img src="/Screenshots/jewerl3.png"><img src="/Screenshots/jewerl4.png"><img src="/Screenshots/jewerl5.png">
 
 \>\> 획득 가능한 자원들 (사파이어, 에메랄드, 다이아몬드, 자수정, 루비,
 목재)
+
+<img src="/Screenshots/jewerl7.png"><img src="/Screenshots/box2.jpg">
 
 \>\> 건설 가능한 건물들 (Sci-Fi crate, 그늘막)
 
